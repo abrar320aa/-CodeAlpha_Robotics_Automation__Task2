@@ -1,2 +1,20 @@
-# -CodeAlpha_Robotics_Automation__Task2
-This repository contains CodeAlpha Internship Task 4 focusing on Robotics and Automation concepts including IoT integration, AI-based autonomous systems, and industrial automation technologies.
+
+# CodeAlpha Internship Task 4  
+## Robotics / Automation Mini Project  
+
+**Name:** Abrar Baloch  
+
+### 📌 Project Overview  
+This project is part of the CodeAlpha Internship Task 4 and focuses on Robotics and Automation concepts.
+
+### 💡 Key Topics Covered  
+- Internet of Things (IoT) in Robotics  
+- Artificial Intelligence in Autonomous Robots  
+- PLC-based Automation Systems  
+- Humanoid Robot Design Concepts  
+
+### 🎯 Objective  
+To understand and explore modern robotics and automation technologies and their real-world applications in engineering.
+
+### 📄 Project File  
+The detailed report is available in this repository as a PDF file.
