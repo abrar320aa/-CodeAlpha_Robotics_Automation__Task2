@@ -2,7 +2,7 @@
 # CodeAlpha Internship Task 4  
 ## Robotics / Automation Mini Project  
 
-**Name:** Abrar Baloch  
+**Name:** Abrar  
 
 ### 📌 Project Overview  
 This project is part of the CodeAlpha Internship Task 4 and focuses on Robotics and Automation concepts.
